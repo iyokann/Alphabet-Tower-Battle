@@ -6,6 +6,7 @@
 プログラムには参考にしたサイトのものをそのまま流用しているため余分な関数がある。
 
 参考にさせてもらったサイト
+
 http://blog.livedoor.jp/asamasou/archives/5689856.html
 
 https://github.com/crssnky/towerbattle
